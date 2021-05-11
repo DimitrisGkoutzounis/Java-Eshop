@@ -1,0 +1,27 @@
+Acer Aspire E5-511-C6NM 	15.6 INTEL CORE I3-4005U 4GB 500GB WINDOWS 	Laptop 	339.00 	0.23
+Dell Inspiron 3542 	15.6'' INTEL CORE I3-4005U 4GB 500GB LINUX 	Laptop 	399.90 	0.23
+Dell Inspiron 14 3000	Celeron N2840 2.16 GHz	Laptop	359.00	0.23
+Toshiba Satellite C55-C5240	15.6-Inch Core i5 8 GB RAM 1 TB HDD	Laptop	456.76	0.23
+ASUS AS12-54 	15.6-Inch Intel Dual-Core Celeron 2.16 GHz 500 GB HDD 4 GB RAM	Laptop	543.23	0.23
+HP Stream 11	11.6-Inch Screen, 2.16 GHz Intel Celeron N2840 with Intel HD Graphics	Laptop	200	0.23
+ASUS Transformer Book 10.1	Intel Quad-Core Processor with 2 GB RAM.	Laptop	200	0.23
+Toshiba Satellite C55-B5100	15.6" Laptop PC -Intel Celeron / 4GB Memory / 500GB HD	Laptop	401.01	0.23
+Toshiba CB35-B3340	Intel Celeron Processor N2840 4 GB DDR3L SDRAM memory	Laptop	309.56	0.23
+Microsoft Lumia 930	32GB White 4G LTE	Smartphone	400.01	0.23
+Microsoft Lumia 830	32 GB 1.2Ghz Quad-Core White 4G LTE	Smartphone	334.54	0.23
+Apple iPhone 6	Space Gray 64GB A8-chip	Smartphone	812.98	0.23
+Apple iPhone 6 plus	Gold 64GB 4G-LTE 1.4Ghz dual core	Smartphone	948.00	0.23
+BLU Advance 4.0	Dual Core 1.3 GHz Processor 4.0''	Smartphone	69.95	0.23
+Samsung Galaxy S5	5.1" Full HD Super AMOLED Exyon Quad Core; 1.9GHz	Smartphone	382.99	0.23
+ASUS ZenFone 2	5.5-Inch 16 GB Smartphone - Silver	Smartphone	199.00	0.23
+Motorola Moto G	8GB Black 3G UMTS 5"	Smartphone	179.99	0.23
+LG G4	64GB WHITE 4G-LTE 5.5" 	Smartphone	400.00	0.23
+Samsung UN50H5203	50-Inch 1080p 60Hz Smart LED Tablet (2014 Model)	Tablet	507.98	0.18
+Samsung UN46F5000	6-Inch 1080p 60Hz Slim LED HDTV	Tablet	899.99	0.18
+TCL 40FS4610R	40-Inch 1080p Smart LED TV (Roku Tablet)	Tablet	299.99	0.18
+Samsung UN32J4000	32-Inch 720p LED Tablet (2015 Model)	Tablet	202.98	0.18
+Samsung UN40H5203	40-Inch 1080p 60Hz Smart LED Tablet (2014 Model)	Tablet	313.28	0.18
+VIZIO VZ1211Y1993H	19-Inch 1080p Smart LED HDTVTV	Tablet	259.99	0.18
+LG 42LF5600	42-Inch 1080p 60Hz LED Tablet	Tablet	369.00	0.18
+TCL LE40FHDE3010	40-Inch 1080p 60Hz LED TV	Tablet	278.88	0.1
+Sony KDL50W800B	50-Inch 1080p 120Hz 3D Smart LED Tablet	Tablet	698.00	0.18		
